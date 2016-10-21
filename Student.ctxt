@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=id\ name\ dept\ university
+comment0.target=Student(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Define\ a\ constructor\ that\ initilize\ the\ default\ properties\ of\ the\ Student\r\n
+comment1.params=iD
+comment1.target=void\ studentDetailsById(int)
+comment1.text=\r\n\ Define\ a\ method\ to\ print\ the\ students\ details.\r\n
+comment2.params=id
+comment2.target=void\ updateStudentById(int)
+comment2.text=\r\n\ Define\ a\ method\ to\ update\ information\ of\ students\ by\ ID\r\n\ Use\ as\ many\ arguments\ as\ required.\r\n
+comment3.params=id
+comment3.target=void\ computeGPAById(int)
+comment3.text=\r\n\ Define\ a\ method\ to\ compute\ the\ GPA\ from\ the\ given\ Credits\ and\ Grades\ of\ all\ the\ subjects\r\n
+comment4.params=id
+comment4.target=double\ computeCGPAByID(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ After\ performing\ required\ operations\ on\ each\ student,\ save\ the\ information\ to\ a\ file.\ Use\ File\ and\ PrintWriter\ Class.\ \r\n\ use\ as\ many\ arguments\ as\ required.\r\n\ \r\n
+numComments=6
